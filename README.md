@@ -41,7 +41,9 @@ To run Prometheus, Grafana and RabbitMQ locally using Docker, follow these steps
 ### Accessing Services
 
 Prometheus: Access Prometheus at http://localhost:9090 in your browser.
+
 Grafana: Access Grafana at http://localhost:3000 in your browser. The default credentials are admin for the username and admin for the password.
+
 RabbitMQ: Access RabbitMQ at http://localhost:15672 in your browser. The default credentials are admin for the username and admin123 for the password.
 
 ### To add Prometheus to Grafana: 
